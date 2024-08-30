@@ -58,23 +58,21 @@ The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-
 
 # Experience
 
-## Apple, Software Engineer
+## Infinite Blue, Software Engineer
 
-- June 2005 – Aug 2007
-- Cupertino, CA
+- 2023 – 2024
+- Audobon, PA
 - Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
 - Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
 - Redesigned chat file format and implemented backward compatibility for search
 
-## Microsoft, Software Engineer Intern
+## Onepak, Software Developer
 
-- June 2003 – Aug 2003
-- Redmond, WA
-- Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-- Created a test case generation tool that creates random XML docs from XML Schema
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
+- 2022 – 2023
+- Boston, MA
+- Implemented a new B2C application, taking it from concept to MVP employing React. Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect implementation of the design elements and maintaining a cohesive user interface.
+- Maintained and optimized logistical software for multiple B2B applications responsible for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
+- Collaborated closely with design and marketing teams, translating their vision and requirements into a functional and visually appealing application.
 
 # Publications
 
