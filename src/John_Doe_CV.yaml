@@ -38,11 +38,11 @@ cv:
           - '**Coursework:** Computer Architecture, Comparison
             of Learning Algorithms, Computational Theory'
     experience:
-      - company: Apple
+      - company: Infinite Blue
         position: Software Engineer
-        location: Cupertino, CA
-        start_date: 2005-06
-        end_date: 2007-08
+        location: Audobon, PA
+        start_date: 2023
+        end_date: 2024
         highlights:
           - Reduced time to render user buddy lists by 75% by
             implementing a prediction algorithm
@@ -51,23 +51,19 @@ cv:
             and provide metadata to a system-wide search database
           - Redesigned chat file format and implemented backward
             compatibility for search
-      - company: Microsoft
-        position: Software Engineer Intern
-        location: Redmond, WA
-        start_date: 2003-06
-        end_date: 2003-08
+      - company: Onepak
+        position: Software Developer
+        location: Boston, MA
+        start_date: 2022
+        end_date: 2023
         highlights:
-          - Designed a UI for the VS open file switcher (Ctrl-Tab)
-            and extended it to tool windows
-          - Created a service to provide gradient across VS and
-            VS add-ins, optimizing its performance via caching
-          - Built an app to compute the similarity of all methods
-            in a codebase, reducing the time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema
-          - Automated the extraction and processing of large datasets
-            from legacy systems using SQL and Perl scripts
+          - Implemented a new B2C application, taking it from concept to MVP employing React. 
+            Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect 
+            implementation of the design elements and maintaining a cohesive user interface.
+          - Maintained and optimized logistical software for multiple B2B applications responsible 
+            for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
+          - Collaborated closely with design and marketing teams, translating their vision 
+            and requirements into a functional and visually appealing application.
     publications:
       - title: 3D Finite Element Analysis of No-Insulation Coils
         authors:
