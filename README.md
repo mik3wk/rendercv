@@ -32,21 +32,13 @@ Picture this:
 - Email: [michaelgordanpeterson@gmail.com](mailto:michaelgordanpeterson@gmail.com)
 - Location: Bordentown, NJ
 - Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- LinkedIn: [michaelgpeterson](https://linkedin.com/in/michaelgpeterson)
+- GitHub: [mik3wk](https://github.com/mik3wk)
 
 
 # Software Engineer
 
 Innovative Fullstack Software Developer experienced in providing high impact web solutions.
-
-# Education
-
-## University of Pennsylvania, BS in Computer Science
-
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
 
 # Experience
 
@@ -65,6 +57,25 @@ Innovative Fullstack Software Developer experienced in providing high impact web
 - Implemented a new B2C application, taking it from concept to MVP employing React. Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect implementation of the design elements and maintaining a cohesive user interface.
 - Maintained and optimized logistical software for multiple B2B applications responsible for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
 - Collaborated closely with design and marketing teams, translating their vision and requirements into a functional and visually appealing application.
+
+## Implico, Software Developer
+
+- 2018 – 2022
+- Blue Bell, PA
+- Designed, implemented, and maintained a suite of applications for internal use utilizing the PERN stack at Sam’s Club, critical to the everyday operations in the fuels division implementation of the design elements and maintaining a cohesive user interface.
+- Created iOS/Android mobile application to accompany software suite, nationally utilized by truck drivers to assist with pickup and deliveries.
+- Produced series of SAP Fiori front end applications using SAP Web IDE to track and maintain master data tables and configuration.
+- Implemented SSH and IPsec configuration to update fuel measurements of Sam’s Club stations, essential to forecasting and fuel tracking.
+- Completed front end overhaul of receipt tracking application used by companies such as Walmart and Phillips 66.
+- Constructed interface utilizing Express.js to interact with SAP and Suncor Energy systems responsible for managing day-to-day fuel logistics
+
+# Education
+
+## University of Pennsylvania, BS in Computer Science
+
+- Sept 2000 – May 2005
+- GPA: 3.9/4.0 ([Transcript](https://example.com))
+- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
 
 # Publications
 
