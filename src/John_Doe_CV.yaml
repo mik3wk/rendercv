@@ -12,97 +12,73 @@ cv:
   sections:
     Software Engineer:
       - 'Innovative Fullstack Software Developer experienced in providing high impact web solutions.'
-    experience:
-    - company: Infinite Blue
-      position: Software Engineer
-      location: Audobon, PA
-      start_date: 2023
-      end_date: 2024
-      highlights:
-        - Reduced time to render user buddy lists by 75% by
-          implementing a prediction algorithm
-        - Integrated iChat with Spotlight Search by creating
-          a tool to extract metadata from saved chat transcripts
-          and provide metadata to a system-wide search database
-        - Redesigned chat file format and implemented backward
-          compatibility for search
-    - company: Onepak
-      position: Software Developer
-      location: Boston, MA
-      start_date: 2022
-      end_date: 2023
-      highlights:
-        - Implemented a new B2C application, taking it from concept to MVP employing React. 
-          Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect 
-          implementation of the design elements and maintaining a cohesive user interface.
-        - Maintained and optimized logistical software for multiple B2B applications responsible 
-          for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
-        - Collaborated closely with design and marketing teams, translating their vision 
-          and requirements into a functional and visually appealing application.
-    - company: Implico
-      position: Software Developer
-      location: Blue Bell, PA
-      start_date: 2018
-      end_date: 2022
-      highlights:
-        - Designed, implemented, and maintained a suite of applications for internal use utilizing the 
-          PERN stack at Sam’s Club, critical to the everyday operations in the fuels division
-          implementation of the design elements and maintaining a cohesive user interface.
-        - Created iOS/Android mobile application to accompany software suite, nationally utilized 
-          by truck drivers to assist with pickup and deliveries.
-        - Produced series of SAP Fiori front end applications using SAP Web IDE to track and maintain 
-          master data tables and configuration.
-        - Implemented SSH and IPsec configuration to update fuel measurements of Sam’s Club stations, 
-          essential to forecasting and fuel tracking.
-        - Completed front end overhaul of receipt tracking application used by companies such as 
-          Walmart and Phillips 66. 
-        - Constructed interface utilizing Express.js to interact with SAP and Suncor Energy systems 
-          responsible for managing day-to-day fuel logistics
-    education:
-      - institution: University of Pennsylvania
-        area: Computer Science
-        degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
-        highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Computer Architecture, Comparison
-            of Learning Algorithms, Computational Theory'
-    publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
-    projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed an electronic classroom where multiple users
-            can simultaneously view and draw on a "chalkboard"
-            with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Custom Operating System
-        date: 2002
-        highlights:
-          - Built a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator
-          - 'Tools Used: C'
     technologies:
       - label: Languages
         details: C++, C, Java, Objective-C, C#, SQL, JavaScript
       - label: Technologies
         details: .NET, Microsoft SQL Server, XCode, Interface
           Builder
+    experience:
+      - company: Infinite Blue
+        position: Software Engineer
+        location: Audobon, PA
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Reduced time to render user buddy lists by 75% by
+            implementing a prediction algorithm
+          - Integrated iChat with Spotlight Search by creating
+            a tool to extract metadata from saved chat transcripts
+            and provide metadata to a system-wide search database
+          - Redesigned chat file format and implemented backward
+            compatibility for search
+      - company: Onepak
+        position: Software Developer
+        location: Boston, MA
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - Implemented a new B2C application, taking it from concept to MVP employing React.
+            Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect
+            implementation of the design elements and maintaining a cohesive user interface.
+          - Maintained and optimized logistical software for multiple B2B applications responsible
+            for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
+          - Collaborated closely with design and marketing teams, translating their vision
+            and requirements into a functional and visually appealing application.
+      - company: Implico
+        position: Software Developer
+        location: Blue Bell, PA
+        start_date: 2018
+        end_date: 2022
+        highlights:
+          - Designed, implemented, and maintained a suite of applications for internal use utilizing the
+            PERN stack at Sam’s Club, critical to the everyday operations in the fuels division
+            implementation of the design elements and maintaining a cohesive user interface.
+          - Created iOS/Android mobile application to accompany software suite, nationally utilized
+            by truck drivers to assist with pickup and deliveries.
+          - Produced series of SAP Fiori front end applications using SAP Web IDE to track and maintain
+            master data tables and configuration.
+          - Implemented SSH and IPsec configuration to update fuel measurements of Sam’s Club stations,
+            essential to forecasting and fuel tracking.
+          - Completed front end overhaul of receipt tracking application used by companies such as
+            Walmart and Phillips 66.
+          - Constructed interface utilizing Express.js to interact with SAP and Suncor Energy systems
+            responsible for managing day-to-day fuel logistics
+    education:
+      - institution: Flatiron School
+        area: Software Engineering
+        start_date: 2017
+        end_date: 2017
+        highlights:
+          - Rigorous bootcamp program teaching students software engineering.
+      - institution: New Jersey Institute of Technology
+        area: Mechanical Engineering
+        start_date: 2016
+        end_date: 2018
+      - institution: Temple University
+        area: History
+        start_date: 2011
+        end_date: 2015
 design:
   theme: classic
   font: Source Sans 3
