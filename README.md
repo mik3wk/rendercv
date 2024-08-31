@@ -40,6 +40,10 @@ Picture this:
 
 Innovative Fullstack Software Developer experienced in providing high impact web solutions.
 
+# Technologies
+
+- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
+- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
 # Experience
 
 ## Infinite Blue, Software Engineer
@@ -71,39 +75,16 @@ Innovative Fullstack Software Developer experienced in providing high impact web
 
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## Flatiron School, Software Engineering
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+- 2017 – 2017
+- Rigorous bootcamp program teaching students software engineering.
 
-# Publications
+## New Jersey Institute of Technology, Mechanical Engineering
 
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+- 2016 – 2018
 
-# Projects
+## Temple University, History
 
-## Multi-User Drawing Tool
+- 2011 – 2015
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
-
-## Synchronized Desktop Calendar
-
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
-
-## Custom Operating System
-
-- 2002
-- Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
-
-# Technologies
-
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
