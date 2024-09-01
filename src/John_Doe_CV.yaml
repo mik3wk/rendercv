@@ -3,7 +3,6 @@ cv:
   location: Bordentown, NJ
   email: michaelgordanpeterson@gmail.com
   phone: tel:+1-609-954-5900
-  website: https://yourwebsite.com/
   social_networks:
     - network: LinkedIn
       username: michaelgpeterson
@@ -11,13 +10,21 @@ cv:
       username: mik3wk
   sections:
     Software Engineer:
-      - 'Innovative Fullstack Software Developer experienced in providing high impact web solutions.'
+      - 'As a seasoned full-stack software developer with 7 years of experience, I specialize in front-end development 
+        but am equally adept at handling back-end tasks. My expertise spans a range of technologies, including Ruby on Rails, 
+        JavaScript, Node, and React. I am passionate about creating intuitive, responsive user interfaces while ensuring 
+        seamless integration with back-end systems.'
     technologies:
-      - label: Languages
-        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
       - label: Technologies
-        details: .NET, Microsoft SQL Server, XCode, Interface
-          Builder
+        details: HTML, CSS, Tailwind, Bootstrap, MaterialUI, JavaScript, React, Node.js, Express.js, SQL (PostgreSQL, MariaDB), Ruby/Rails,  Git, GCP, Rest API, JSON,  Scrum/Agile
+      - label: Frontend Technologies
+        details: fe
+      - label: Backend Technologies
+        details: be
+      - label: DevOps
+        details: Docker, GCP, CI/CD
+      - label: Tools/Other
+        details: o
     experience:
       - company: Infinite Blue
         position: Software Engineer
@@ -25,13 +32,9 @@ cv:
         start_date: 2023
         end_date: 2024
         highlights:
-          - Reduced time to render user buddy lists by 75% by
-            implementing a prediction algorithm
-          - Integrated iChat with Spotlight Search by creating
-            a tool to extract metadata from saved chat transcripts
-            and provide metadata to a system-wide search database
-          - Redesigned chat file format and implemented backward
-            compatibility for search
+          - Clustering algorithm
+          - asd
+          - asd
       - company: Onepak
         position: Software Developer
         location: Boston, MA
@@ -39,7 +42,7 @@ cv:
         end_date: 2023
         highlights:
           - Implemented a new B2C application, taking it from concept to MVP employing React.
-            Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect
+            Zeplin was utilized as a key tool to work with mockups, ensuring pixel-perfect
             implementation of the design elements and maintaining a cohesive user interface.
           - Maintained and optimized logistical software for multiple B2B applications responsible
             for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
