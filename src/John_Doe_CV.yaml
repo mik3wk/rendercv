@@ -19,7 +19,7 @@ cv:
         position: Software Engineer
         location: Audobon, PA
         start_date: 2023
-        end_date: 2024
+        end_date: present
         highlights:
           - Developed, updated, and maintained key components of an enterprise resilience application, working with 
             multiple microservices and micro frontends; done primarily through utilizing React, Node, Pulsar, 
