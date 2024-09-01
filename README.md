@@ -45,7 +45,7 @@ Software developer with 7 years of experience, specializing in React with additi
 
 ## Infinite Blue, Software Engineer
 
-- 2023 – 2024
+- 2023 – present
 - Audobon, PA
 - Developed, updated, and maintained key components of an enterprise resilience application, working with multiple microservices and micro frontends; done primarily through utilizing React, Node, Pulsar, PostgreSQL, and GraphQL. These components streamlined and enhanced business responses to catastrophic events, ensuring robust and efficient disaster management.
 - Implemented algorithm to cluster business threats, utilizing pub/sub to generate and store threat data in a database;  data was accessed via API and visually represented on a map using React, providing a clear, actionable view of potential threats.
