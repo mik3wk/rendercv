@@ -31,34 +31,36 @@ Picture this:
 - Phone: +1 609 954 5900
 - Email: [michaelgordanpeterson@gmail.com](mailto:michaelgordanpeterson@gmail.com)
 - Location: Bordentown, NJ
-- Website: [yourwebsite.com](https://yourwebsite.com/)
 - LinkedIn: [michaelgpeterson](https://linkedin.com/in/michaelgpeterson)
 - GitHub: [mik3wk](https://github.com/mik3wk)
 
 
 # Software Engineer
 
-Innovative Fullstack Software Developer experienced in providing high impact web solutions.
+As a seasoned full-stack software developer with 7 years of experience, I specialize in front-end development but am equally adept at handling back-end tasks. My expertise spans a range of technologies, including Ruby on Rails, JavaScript, Node, and React. I am passionate about creating intuitive, responsive user interfaces while ensuring seamless integration with back-end systems.
 
 # Technologies
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
+- Technologies: HTML, CSS, Tailwind, Bootstrap, MaterialUI, JavaScript, React, Node.js, Express.js, SQL (PostgreSQL, MariaDB), Ruby/Rails,  Git, GCP, Rest API, JSON,  Scrum/Agile
+- Frontend Technologies: fe
+- Backend Technologies: be
+- DevOps: Docker, GCP, CI/CD
+- Tools/Other: o
 # Experience
 
 ## Infinite Blue, Software Engineer
 
 - 2023 – 2024
 - Audobon, PA
-- Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
-- Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
+- Clustering algorithm
+- asd
+- asd
 
 ## Onepak, Software Developer
 
 - 2022 – 2023
 - Boston, MA
-- Implemented a new B2C application, taking it from concept to MVP employing React. Zeplin was utilized  as a key tool to work with mockups, ensuring pixel-perfect implementation of the design elements and maintaining a cohesive user interface.
+- Implemented a new B2C application, taking it from concept to MVP employing React. Zeplin was utilized as a key tool to work with mockups, ensuring pixel-perfect implementation of the design elements and maintaining a cohesive user interface.
 - Maintained and optimized logistical software for multiple B2B applications responsible for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
 - Collaborated closely with design and marketing teams, translating their vision and requirements into a functional and visually appealing application.
 
