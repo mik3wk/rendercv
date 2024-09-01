@@ -47,8 +47,8 @@ Full-stack software developer with 7 years of experience, equally enthusiastic a
 
 - 2023 – 2024
 - Audobon, PA
-- Developed, updated, and maintained key components of an enterprise resilience application, working with multiple microservices, micro frontends. This was done primarily through utilizing React, Node, Pulsar, PostgreSQL, and GraphQL. These services were designed to streamline and enhance business responses to catastrophic events, ensuring robust and efficient disaster management.
-- Implemented algorithm to cluster business threats, grouping assessed risks and utilizing pub/sub with Pulsar to generate and store threat data in a database. This data was then accessed via GraphQL and visually represented on a map using React, providing a clear, actionable view of potential threats.
+- Developed, updated, and maintained key components of an enterprise resilience application, working with multiple microservices and micro frontends. This was done primarily through utilizing React, Node, Pulsar, PostgreSQL, and GraphQL. These components streamlined and enhanced business responses to catastrophic events, ensuring robust and efficient disaster management.
+- Implemented algorithm to cluster business threats and utilizing pub/sub to generate and store threat data in a database. This data was then accessed via API and visually represented on a map using React, providing a clear, actionable view of potential threats.
 - Created REST API delta endpoint, significantly increasing upload speed for bulk data submitted by customers.
 - Archived critical data using Node and SQL queries, meeting contractual obligations and enabling the generation of reports. These reports provided customers with valuable insights into threats to their company and allowed them to access unique threat data for future analysis.
 
