@@ -37,24 +37,21 @@ Picture this:
 
 # Software Engineer
 
-As a seasoned full-stack software developer with 7 years of experience, I specialize in front-end development but am equally adept at handling back-end tasks. My expertise spans a range of technologies, including Ruby on Rails, JavaScript, Node, and React. I am passionate about creating intuitive, responsive user interfaces while ensuring seamless integration with back-end systems.
+As a seasoned full-stack software developer with 7 years of experience, I specialize in front-end development but am equally adept at handling back-end tasks. My expertise spans a range of technologies, and I am passionate about creating intuitive, responsive user interfaces while ensuring seamless integration with back-end systems.
 
 # Technologies
 
-- Technologies: HTML, CSS, Tailwind, Bootstrap, MaterialUI, JavaScript, React, Node.js, Express.js, SQL (PostgreSQL, MariaDB), Ruby/Rails,  Git, GCP, Rest API, JSON,  Scrum/Agile
-- Frontend Technologies: fe
-- Backend Technologies: be
-- DevOps: Docker, GCP, CI/CD
-- Tools/Other: o
+- Skills: Javascript/Typescript, React, Node.js, Google Cloud Platform, SQL (PostgreSQL, MariaDB), Git, HTML/CSS
 # Experience
 
 ## Infinite Blue, Software Engineer
 
 - 2023 – 2024
 - Audobon, PA
-- Clustering algorithm
-- asd
-- asd
+- Developed, updated, and maintained key components of an enterprise resilience application, working with multiple microservices, micro frontends. This was done primarily through utilizing React, Node, Pulsar, PostgreSQL, and GraphQL. These services were designed to streamline and enhance business responses to catastrophic events, ensuring robust and efficient disaster management.
+- Implemented algorithm to cluster business threats, grouping assessed risks and utilizing pub/sub with Pulsar to generate and store threat data in a database. This data was then accessed via GraphQL and visually represented on a map using React, providing a clear, actionable view of potential threats.
+- Created REST API delta endpoint, significantly increasing upload speed for bulk data submitted by customers.
+- Archived critical data using Node and SQL queries, meeting contractual obligations and enabling the generation of reports. These reports provided customers with valuable insights into threats to their company and allowed them to access unique threat data for future analysis.
 
 ## Onepak, Software Developer
 
