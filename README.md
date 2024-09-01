@@ -32,12 +32,11 @@ Picture this:
 - Email: [michaelgordanpeterson@gmail.com](mailto:michaelgordanpeterson@gmail.com)
 - Location: Bordentown, NJ
 - LinkedIn: [michaelgpeterson](https://linkedin.com/in/michaelgpeterson)
-- GitHub: [mik3wk](https://github.com/mik3wk)
 
 
-# Software Engineer
+# Summary
 
-As a seasoned full-stack software developer with 7 years of experience, I specialize in front-end development but am equally adept at handling back-end tasks. My expertise spans a range of technologies, and I am passionate about creating intuitive, responsive user interfaces while ensuring seamless integration with back-end systems.
+Full-stack software developer with 7 years of experience, equally enthusiastic about front-end and back-end work. Specializing in React, I am passionate about building intuitive and responsive user interfaces while also enjoying the challenges of backend development. Skilled in a variety of technologies, I thrive on finding innovative solutions and continuously improving processes across the stack.
 
 # Technologies
 
