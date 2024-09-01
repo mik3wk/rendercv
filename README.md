@@ -36,7 +36,7 @@ Picture this:
 
 # Summary
 
-Full-stack software developer with 7 years of experience, equally enthusiastic about front-end and back-end work. Specializing in React, I am passionate about building intuitive and responsive user interfaces while also enjoying the challenges of backend development. Skilled in a variety of technologies, I thrive on finding innovative solutions and continuously improving processes across the stack.
+Software developer with 7 years of experience, specializing in React with additional strengths in backend development. Skilled at building intuitive and responsive user interfaces. Self-directed and committed to continuously innovating solutions, as well as improving processes across the stack.
 
 # Technologies
 
