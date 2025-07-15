@@ -6,34 +6,35 @@ cv:
   social_networks:
     - network: LinkedIn
       username: michaelgpeterson
+
   sections:
     summary:
-      - Full-stack software engineer with 7+ years of experience building scalable, high-performance web and mobile applications. Expertise in 
-        React, Node.js, and PostgreSQL, with proven success improving system efficiency, reducing data processing times, and delivering intuitive 
-        user experiences. Strong background in cloud infrastructure (GCP) and enterprise-scale applications, collaborating with cross-functional 
-        teams to ship impactful products.
+      - Full-stack software engineer with 7+ years of experience delivering scalable, high-performance web and mobile applications. Expertise in React, Node.js, and PostgreSQL, with proven success improving system efficiency by up to 60% and delivering intuitive, enterprise-grade user experiences. Strong background in cloud infrastructure (GCP), microservices, and cross-functional collaboration to ship impactful SaaS and B2C products.
+
     technologies:
       - label: Languages
-        details: JavaScript (ES6+), TypeScript, SQL, Ruby, PHP
+        details: JavaScript (ES6+), TypeScript, SQL
       - label: Frontend
-        details: React, React Native, HTML, CSS
-      - label: Backend
+        details: React, React Native, Redux, HTML, CSS
+      - label: Backend & APIs
         details: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
       - label: Cloud & DevOps
-        details: Google Cloud Platform, Git, Docker
+        details: Google Cloud Platform (Cloud Run, Cloud SQL), Docker, Git
       - label: Other
         details: Testing (Jest, React Testing Library), Zeplin, Agile/Scrum, Jira, SAP
+
     experience:
-      - company: Everbridge. Inc.
+      - company: Everbridge, Inc.
         position: Software Engineer
-        location: Audobon, PA
+        location: Audubon, PA
         start_date: 2023
         end_date: present
         highlights:
           - Developed and maintained microservice-based enterprise resilience applications using React, Node, Pulsar, PostgreSQL, and GraphQL.
-          - Built an algorithm to cluster business threats, leveraging pub/sub messaging to store and visualize threat data, providing actionable insights to enterprise clients.
-          - Created a REST API delta endpoint, increasing bulk data upload speeds by 60%, improving response times for customers.
-          - Archived and processed critical threat data using Node and SQL, enabling contractual reporting and advanced analytics for clients.
+          - Built an algorithm to cluster business threats, leveraging pub/sub messaging to store and visualize data, providing actionable insights to enterprise clients.
+          - Created a REST API delta endpoint, increasing bulk data upload speeds by 60% and improving response times for customers.
+          - Archived and processed critical threat data using Node and SQL, enabling contractual reporting and advanced analytics.
+
       - company: Onepak
         position: Software Developer
         location: Boston, MA
@@ -42,7 +43,8 @@ cv:
         highlights:
           - Led development of a new B2C React application from concept to MVP, ensuring pixel-perfect UI implementation via Zeplin.
           - Maintained and optimized B2B logistics software for clients including Dell and Hewlett Packard, improving operational efficiency in tech equipment recycling.
-          - Collaborated with design and marketing teams to translate business requirements into visually appealing, functional applications.
+          - Collaborated with design and marketing teams to translate business requirements into functional, visually appealing applications.
+
       - company: Implico
         position: Software Developer
         location: Blue Bell, PA
@@ -50,36 +52,32 @@ cv:
         end_date: 2022
         highlights:
           - Designed and maintained a suite of PERN stack applications supporting fuel logistics at Sam’s Club, critical to daily operations.
-          - Built and deployed a nationwide iOS/Android mobile app for truck drivers to streamline pickups and deliveries.
+          - Built and deployed a nationwide iOS/Android mobile app adopted by truck drivers to streamline pickups and deliveries.
           - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH & IPsec configurations for real-time fuel measurement updates.
           - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
+
     education:
       - institution: Flatiron School
         area: Software Engineering Bootcamp
         start_date: 2017
         end_date: 2017
       - institution: New Jersey Institute of Technology
-        area: Mechanical Engineering
-        start_date: 2016
-        end_date: 2018
+        area: Mechanical Engineering (2016 – 2018)
       - institution: Temple University
-        area: History
-        start_date: 2011
-        end_date: 2015
+        area: History (2011 – 2015)
+
 design:
   theme: modern
   font: Source Sans 3
   font_size: 11pt
-  color: '#1a1a1a'
   page_size: letterpaper
-  text_alignment: left
+  color: '#0055aa'
+  disable_external_link_icons: false
   disable_page_numbering: true
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
-  header_font_size: 30 pt
-  text_alignment: justified
-  seperator_between_connections: ''
-  use_icons_for_connections: true
+  header_font_size: 30pt
+  text_alignment: left
   margins:
     page:
       top: 2 cm
