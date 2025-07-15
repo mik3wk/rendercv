@@ -40,7 +40,7 @@ Full-stack software engineer with 7+ years of experience building scalable, high
 
 # Technologies
 
-- Languages: JavaScript (ES6+), TypeScript, SQL, Ruby, PHP
+- Languages: JavaScript, TypeScript, SQL
 - Frontend: React, React Native, HTML, CSS
 - Backend: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
 - Cloud & DevOps: Google Cloud Platform, Git, Docker
@@ -75,9 +75,10 @@ Full-stack software engineer with 7+ years of experience building scalable, high
 
 # Education
 
-## Flatiron School, Software Engineering Bootcamp
+## Flatiron School, Software Engineering
 
 - 2017 – 2017
+- Rigorous bootcamp program teaching students software engineering.
 
 ## New Jersey Institute of Technology, Mechanical Engineering
 
