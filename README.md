@@ -41,10 +41,10 @@ Full-stack software engineer with 7+ years of experience building scalable, high
 # Technologies
 
 - Languages: JavaScript (ES6+), TypeScript, SQL, Ruby, PHP
-- Frontend: React, React Native, GraphQL, HTML5, CSS3
-- Backend: Node.js, Express.js, PostgreSQL, MariaDB, REST APIs, Microservices
-- Cloud & DevOps: Google Cloud Platform, Pulsar, Git, Docker
-- Other: Agile/Scrum, Zeplin, SAP Fiori
+- Frontend: React, React Native, HTML, CSS
+- Backend: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
+- Cloud & DevOps: Google Cloud Platform, Git, Docker
+- Other: Testing (Jest, React Testing Library), Zeplin, Agile/Scrum, Jira, SAP
 # Experience
 
 ## Everbridge. Inc., Software Engineer
@@ -75,16 +75,13 @@ Full-stack software engineer with 7+ years of experience building scalable, high
 
 # Education
 
-## Flatiron School, Software Engineering
+## Flatiron School, Software Engineering Bootcamp
 
 - 2017 – 2017
-- Rigorous bootcamp program teaching students software engineering.
 
-## New Jersey Institute of Technology, Mechanical Engineering
+## New Jersey Institute of Technology, Mechanical Engineering (2016 – 2018)
 
-- 2016 – 2018
 
-## Temple University, History
+## Temple University, History (2011 – 2015)
 
-- 2011 – 2015
 
