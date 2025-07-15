@@ -80,7 +80,7 @@ design:
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
   header_font_size: 30 pt
-  text_alignment: left
+  text_alignment: left-aligned
   seperator_between_connections: ''
   use_icons_for_connections: true
   margins:
