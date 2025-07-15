@@ -16,13 +16,13 @@ cv:
       - label: Languages
         details: JavaScript (ES6+), TypeScript, SQL, Ruby, PHP
       - label: Frontend
-        details: React, React Native, GraphQL, HTML5, CSS3
+        details: React, React Native, HTML, CSS
       - label: Backend
-        details: Node.js, Express.js, PostgreSQL, MariaDB, REST APIs, Microservices
+        details: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
       - label: Cloud & DevOps
-        details: Google Cloud Platform, Pulsar, Git, Docker
+        details: Google Cloud Platform, Git, Docker
       - label: Other
-        details: Agile/Scrum, Zeplin, SAP Fiori
+        details: Testing (Jest, React Testing Library), Zeplin, Agile/Scrum, Jira, SAP
     experience:
       - company: Everbridge. Inc.
         position: Software Engineer
@@ -54,20 +54,14 @@ cv:
           - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH & IPsec configurations for real-time fuel measurement updates.
           - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
     education:
-      - institution: Flatiron School
-        area: Software Engineering
-        start_date: 2017
-        end_date: 2017
-        highlights:
-          - Rigorous bootcamp program teaching students software engineering.
-      - institution: New Jersey Institute of Technology
-        area: Mechanical Engineering
-        start_date: 2016
-        end_date: 2018
-      - institution: Temple University
-        area: History
-        start_date: 2011
-        end_date: 2015
+    - institution: Flatiron School
+      area: Software Engineering Bootcamp
+      start_date: 2017
+      end_date: 2017
+    - institution: New Jersey Institute of Technology
+      area: Mechanical Engineering (2016 – 2018)
+    - institution: Temple University
+      area: History (2011 – 2015)
 design:
   theme: classic
   font: Source Sans 3
