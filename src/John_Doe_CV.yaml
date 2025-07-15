@@ -54,22 +54,26 @@ cv:
           - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH & IPsec configurations for real-time fuel measurement updates.
           - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
     education:
-    - institution: Flatiron School
-      area: Software Engineering Bootcamp
-      start_date: 2017
-      end_date: 2017
-    - institution: New Jersey Institute of Technology
-      area: Mechanical Engineering (2016 – 2018)
-    - institution: Temple University
-      area: History (2011 – 2015)
+      - institution: Flatiron School
+        area: Software Engineering Bootcamp
+        start_date: 2017
+        end_date: 2017
+      - institution: New Jersey Institute of Technology
+        area: Mechanical Engineering
+        start_date: 2016
+        end_date: 2018
+      - institution: Temple University
+        area: History
+        start_date: 2011
+        end_date: 2015
 design:
   theme: classic
   font: Source Sans 3
   font_size: 10pt
   page_size: letterpaper
-  color: '#004f90'
+  color: '#0055aa'
   disable_external_link_icons: false
-  disable_page_numbering: false
+  disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
