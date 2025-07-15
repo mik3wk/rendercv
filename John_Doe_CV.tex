@@ -1,4 +1,4 @@
-\documentclass[11pt, letterpaper]{article}
+\documentclass[10pt, letterpaper]{article}
 
 % Packages:
 \usepackage[
@@ -14,7 +14,7 @@
 \usepackage{tabularx} % for making tables with fixed width columns
 \usepackage{array} % tabularx requires this
 \usepackage[dvipsnames]{xcolor} % for coloring text
-\definecolor{primaryColor}{RGB}{0, 79, 144} % define primary color
+\definecolor{primaryColor}{RGB}{26, 26, 26} % define primary color
 \usepackage{enumitem} % for customizing lists
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
@@ -54,13 +54,7 @@
 \setlength{\parindent}{0pt} % no indentation
 \setlength{\topskip}{0pt} % no top skip
 \setlength{\columnsep}{0.15cm} % set column seperation
-\makeatletter
-\let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
-\patchcmd{\ps@customFooterStyle}{\thepage}{
-    \color{gray}\textit{\small Michael Peterson - Page \thepage{} of \pageref*{LastPage}}
-}{}{} % replace number by desired string
-\makeatother
-\pagestyle{customFooterStyle}
+\pagenumbering{gobble} % no page numbering
 
 \titleformat{\section}{
     % avoid page braking right after the section title
@@ -318,10 +312,7 @@
         \begin{threecolentry}{\textbf{}}{
             2017 – 2017
         }
-            \textbf{Flatiron School}, Software Engineering
-            \begin{highlights}
-                \item Rigorous bootcamp program teaching students software engineering.
-            \end{highlights}
+            \textbf{Flatiron School}, Software Engineering Bootcamp
         \end{threecolentry}
 
         \vspace{0.2 cm}
