@@ -3,18 +3,18 @@
 % Packages:
 \usepackage[
     ignoreheadfoot, % set margins without considering header and footer
-    top=2 cm, % seperation between body and page edge from the top
-    bottom=2 cm, % seperation between body and page edge from the bottom
+    top=1.7 cm, % seperation between body and page edge from the top
+    bottom=1.7 cm, % seperation between body and page edge from the bottom
     left=2 cm, % seperation between body and page edge from the left
     right=2 cm, % seperation between body and page edge from the right
-    footskip=1.0 cm, % seperation between body and footer
+    footskip=0.85 cm, % seperation between body and footer
     % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
 \usepackage[explicit]{titlesec} % for customizing section titles
 \usepackage{tabularx} % for making tables with fixed width columns
 \usepackage{array} % tabularx requires this
 \usepackage[dvipsnames]{xcolor} % for coloring text
-\definecolor{primaryColor}{RGB}{26, 26, 26} % define primary color
+\definecolor{primaryColor}{RGB}{0, 109, 119} % define primary color
 \usepackage{enumitem} % for customizing lists
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
@@ -74,17 +74,17 @@
     -1pt
 }{
     % top space:
-    0.3 cm
+    0.2 cm
 }{
     % bottom space:
-    0.2 cm
+    0.15 cm
 } % section title spacing
 
 % \renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$} % custom bullet points
 \newenvironment{highlights}{
     \begin{itemize}[
         topsep=0.10 cm,
-        parsep=0.10 cm,
+        parsep=0.08 cm,
         partopsep=0pt,
         itemsep=0pt,
         leftmargin=0.4 cm + 10pt
@@ -96,7 +96,7 @@
 \newenvironment{highlightsforbulletentries}{
     \begin{itemize}[
         topsep=0.10 cm,
-        parsep=0.10 cm,
+        parsep=0.08 cm,
         partopsep=0pt,
         itemsep=0pt,
         leftmargin=10pt
@@ -149,7 +149,7 @@
   \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
     \put(
         \LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},
-        \LenToUnit{\paperheight-1.0 cm}
+        \LenToUnit{\paperheight-0.85 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
         \small\color{gray}\textit{Last updated in July 2025}\hspace{\widthof{Last updated in July 2025}}
     }}}%
@@ -194,7 +194,7 @@
         \mbox{\hrefWithoutArrow{https://linkedin.com/in/michaelgpeterson}{{\footnotesize\faLinkedinIn}\hspace*{0.13cm}michaelgpeterson}}%
     \end{header}
 
-    \vspace{0.3 cm - 0.3 cm}
+    \vspace{0.3 cm - 0.2 cm}
 
 
     \section{Summary}
@@ -217,25 +217,25 @@
             \textbf{Languages:} JavaScript, TypeScript, SQL
         \end{onecolentry}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{onecolentry}
             \textbf{Frontend:} React, React Native, HTML, CSS
         \end{onecolentry}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{onecolentry}
             \textbf{Backend:} Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
         \end{onecolentry}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{onecolentry}
             \textbf{Cloud \& DevOps:} Google Cloud Platform, Git, Docker
         \end{onecolentry}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{onecolentry}
             \textbf{Other:} Testing (Jest, React Testing Library), Zeplin, Agile/Scrum, Jira, SAP
@@ -265,7 +265,7 @@
         \end{twocolentry}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{twocolentry}{
             Boston, MA
@@ -283,7 +283,7 @@
         \end{twocolentry}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{twocolentry}{
             Blue Bell, PA
@@ -315,7 +315,7 @@
             \textbf{Flatiron School}, Software Engineering Bootcamp
         \end{threecolentry}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{threecolentry}{\textbf{}}{
             2016 – 2018
@@ -323,7 +323,7 @@
             \textbf{New Jersey Institute of Technology}, Mechanical Engineering
         \end{threecolentry}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \begin{threecolentry}{\textbf{}}{
             2011 – 2015
