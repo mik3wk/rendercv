@@ -83,8 +83,8 @@ design:
   use_icons_for_connections: true
   margins:
     page:
-      top: 1.5 cm
-      bottom: 1.5 cm
+      top: 1.4 cm
+      bottom: 1.4 cm
       left: 2 cm
       right: 2 cm
     section_title:
@@ -92,7 +92,7 @@ design:
       bottom: 0.15 cm
     entry_area:
       left_and_right: 0.2 cm
-      vertical_between: 0.15 cm
+      vertical_between: 0.13 cm
       date_and_location_width: 4.5 cm
       education_degree_width: 1 cm
     highlights_area:
