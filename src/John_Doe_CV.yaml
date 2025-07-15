@@ -71,7 +71,7 @@ design:
   font: Source Sans 3
   font_size: 10pt
   page_size: letterpaper
-  color: '#1a1a1a'
+  color: '#006d77'
   disable_external_link_icons: false
   disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
@@ -83,22 +83,22 @@ design:
   use_icons_for_connections: true
   margins:
     page:
-      top: 2 cm
-      bottom: 2 cm
+      top: 1.7 cm
+      bottom: 1.7 cm
       left: 2 cm
       right: 2 cm
     section_title:
-      top: 0.3 cm
-      bottom: 0.2 cm
+      top: 0.2 cm
+      bottom: 0.15 cm
     entry_area:
       left_and_right: 0.2 cm
-      vertical_between: 0.2 cm
+      vertical_between: 0.15 cm
       date_and_location_width: 4.5 cm
       education_degree_width: 1 cm
     highlights_area:
       top: 0.10 cm
       left: 0.4 cm
-      vertical_between_bullet_points: 0.10 cm
+      vertical_between_bullet_points: 0.08 cm
     header:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
