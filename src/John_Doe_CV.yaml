@@ -55,11 +55,9 @@ cv:
           - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
     education:
       - institution: Flatiron School
-        area: Software Engineering
+        area: Software Engineering Bootcamp
         start_date: 2017
         end_date: 2017
-        highlights:
-          - Rigorous bootcamp program teaching students software engineering.
       - institution: New Jersey Institute of Technology
         area: Mechanical Engineering
         start_date: 2016
@@ -69,7 +67,7 @@ cv:
         start_date: 2011
         end_date: 2015
 design:
-  theme: modern
+  theme: classic
   font: Source Sans 3
   font_size: 10pt
   page_size: letterpaper
