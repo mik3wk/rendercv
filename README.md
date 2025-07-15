@@ -79,9 +79,11 @@ Full-stack software engineer with 7+ years of experience building scalable, high
 
 - 2017 – 2017
 
-## New Jersey Institute of Technology, Mechanical Engineering (2016 – 2018)
+## New Jersey Institute of Technology, Mechanical Engineering
 
+- 2016 – 2018
 
-## Temple University, History (2011 – 2015)
+## Temple University, History
 
+- 2011 – 2015
 
