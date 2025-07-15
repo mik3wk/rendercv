@@ -14,7 +14,7 @@
 \usepackage{tabularx} % for making tables with fixed width columns
 \usepackage{array} % tabularx requires this
 \usepackage[dvipsnames]{xcolor} % for coloring text
-\definecolor{primaryColor}{RGB}{0, 79, 144} % define primary color
+\definecolor{primaryColor}{RGB}{0, 85, 170} % define primary color
 \usepackage{enumitem} % for customizing lists
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
@@ -53,13 +53,7 @@
 \setlength{\parindent}{0pt} % no indentation
 \setlength{\topskip}{0pt} % no top skip
 \setlength{\columnsep}{0.15cm} % set column seperation
-\makeatletter
-\let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
-\patchcmd{\ps@customFooterStyle}{\thepage}{
-    \color{gray}\textit{\small Michael Peterson - Page \thepage{} of \pageref*{LastPage}}
-}{}{} % replace number by desired string
-\makeatother
-\pagestyle{customFooterStyle}
+\pagenumbering{gobble} % no page numbering
 
 \titleformat{\section}{
     % avoid page braking right after the section title
@@ -323,17 +317,17 @@
         \vspace{0.2 cm}
 
         \begin{threecolentry}{\textbf{}}{
-            
+            2016 – 2018
         }
-            \textbf{New Jersey Institute of Technology}, Mechanical Engineering (2016 – 2018)
+            \textbf{New Jersey Institute of Technology}, Mechanical Engineering
         \end{threecolentry}
 
         \vspace{0.2 cm}
 
         \begin{threecolentry}{\textbf{}}{
-            
+            2011 – 2015
         }
-            \textbf{Temple University}, History (2011 – 2015)
+            \textbf{Temple University}, History
         \end{threecolentry}
 
 
