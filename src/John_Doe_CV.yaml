@@ -83,8 +83,8 @@ design:
   use_icons_for_connections: true
   margins:
     page:
-      top: 1.7 cm
-      bottom: 1.7 cm
+      top: 1.5 cm
+      bottom: 1.5 cm
       left: 2 cm
       right: 2 cm
     section_title:
