@@ -8,10 +8,7 @@ cv:
       username: michaelgpeterson
   sections:
     summary:
-      - Full-stack software engineer with 7+ years of experience building scalable, high-performance web and mobile applications. Expertise in 
-        React, Node.js, and PostgreSQL, with proven success improving system efficiency, reducing data processing times, and delivering intuitive 
-        user experiences. Strong background in cloud infrastructure (GCP) and enterprise-scale applications, collaborating with cross-functional 
-        teams to ship impactful products.
+      - Full-stack software engineer with 7+ years of experience building scalable web and mobile applications. Expertise in React, Node.js, and PostgreSQL, with a track record of improving system performance, reducing data processing time, and delivering intuitive user experiences. Strong background in GCP and enterprise-scale software, collaborating across teams to ship impactful products.
     technologies:
       - label: Languages
         details: JavaScript, TypeScript, SQL
@@ -19,30 +16,30 @@ cv:
         details: React, React Native, HTML, CSS
       - label: Backend
         details: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
-      - label: Cloud & DevOps
+      - label: Cloud and DevOps
         details: Google Cloud Platform, Git, Docker
       - label: Other
-        details: Testing (Jest, React Testing Library), Zeplin, Agile/Scrum, Jira, SAP
+        details: Testing (Jest, React Testing Library), Agile/Scrum, Jira, SAP
     experience:
-      - company: Everbridge. Inc.
+      - company: Everbridge, Inc.
         position: Software Engineer
-        location: Audobon, PA
+        location: Audubon, PA
         start_date: 2023
         end_date: present
         highlights:
-          - Developed and maintained microservice-based enterprise resilience applications using React, Node, Pulsar, PostgreSQL, and GraphQL.
-          - Built an algorithm to cluster business threats, leveraging pub/sub messaging to store and visualize threat data, providing actionable insights to enterprise clients.
-          - Created a REST API delta endpoint, increasing bulk data upload speeds by 60%, improving response times for customers.
-          - Archived and processed critical threat data using Node and SQL, enabling contractual reporting and advanced analytics for clients.
+          - Built an end-to-end integration between an enterprise resilience platform and Everbridge Communication products, enabling cross-platform communication and data exchange.
+          - Developed and maintained microservice-based enterprise resilience applications using React, Node.js, Pulsar, PostgreSQL, and GraphQL.
+          - Contributed to the development of a threat-clustering algorithm and supporting pub/sub data pipelines used to store and visualize threat data for enterprise clients.
+          - Built data workflows to archive and process critical threat data using Node.js and SQL, enabling contractual reporting and advanced analytics.
       - company: Onepak
         position: Software Developer
         location: Boston, MA
         start_date: 2022
         end_date: 2023
         highlights:
-          - Led development of a new B2C React application from concept to MVP, ensuring pixel-perfect UI implementation via Zeplin.
-          - Maintained and optimized B2B logistics software for clients including Dell and Hewlett Packard, improving operational efficiency in tech equipment recycling.
-          - Collaborated with design and marketing teams to translate business requirements into visually appealing, functional applications.
+          - Led development of a new B2C React application from concept to MVP, building core user-facing features and workflows.
+          - Maintained and optimized B2B logistics software for clients including Dell and HP, improving operational efficiency in tech equipment recycling.
+          - Collaborated with cross-functional teams to translate business requirements into customer-facing product features.
       - company: Implico
         position: Software Developer
         location: Blue Bell, PA
@@ -51,13 +48,13 @@ cv:
         highlights:
           - Designed and maintained a suite of PERN stack applications supporting fuel logistics at Sam’s Club, critical to daily operations.
           - Built and deployed a nationwide iOS/Android mobile app for truck drivers to streamline pickups and deliveries.
-          - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH & IPsec configurations for real-time fuel measurement updates.
+          - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH and IPsec configurations for real-time fuel measurement updates.
           - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
     education:
       - institution: Flatiron School
         area: Software Engineering Bootcamp
-        start_date: 2017
-        end_date: 2017
+        start_date: 2018
+        end_date: 2018
       - institution: New Jersey Institute of Technology
         area: Mechanical Engineering
         start_date: 2016
@@ -71,7 +68,7 @@ design:
   font: Source Sans 3
   font_size: 10pt
   page_size: letterpaper
-  color: '#006d77'
+  color: "#006d77"
   disable_external_link_icons: false
   disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
@@ -79,7 +76,7 @@ design:
   last_updated_date_style: Last updated in TODAY
   header_font_size: 24 pt
   text_alignment: left-aligned
-  seperator_between_connections: ''
+  seperator_between_connections: ""
   use_icons_for_connections: true
   margins:
     page:
