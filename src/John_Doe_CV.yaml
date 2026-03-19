@@ -27,7 +27,7 @@ cv:
         start_date: 2023
         end_date: present
         highlights:
-          - Built an end-to-end integration between an enterprise resilience platform and Everbridge Communication products, enabling cross-platform communication and data exchange.
+          - Built an end-to-end integration between an enterprise resilience platform and Everbridge Communications, enabling cross-platform communication and data exchange.
           - Developed and maintained microservice-based enterprise resilience applications using React, Node.js, Pulsar, PostgreSQL, and GraphQL.
           - Contributed to the development of a threat-clustering algorithm and supporting pub/sub data pipelines used to store and visualize threat data for enterprise clients.
           - Built data workflows to archive and process critical threat data using Node.js and SQL, enabling contractual reporting and advanced analytics.
