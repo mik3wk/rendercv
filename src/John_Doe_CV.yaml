@@ -8,69 +8,53 @@ cv:
       username: michaelgpeterson
   sections:
     summary:
-      - Software developer with 7 years of experience, specializing in React with additional strengths in backend development. 
-        Skilled at building intuitive and responsive user interfaces. Self-directed and committed to continuously innovating 
-        solutions, as well as improving processes across the stack.
+      - Full-stack software engineer with 7+ years of experience building scalable web and mobile applications. Expertise in React, Node.js, and PostgreSQL, with a track record of improving system performance, reducing data processing time, and delivering intuitive user experiences. Strong background in GCP and enterprise-scale software, collaborating across teams to ship impactful products.
     technologies:
-      - label: Skills
-        details: Javascript/Typescript, React, Node.js, Google Cloud Platform, SQL (PostgreSQL, MariaDB), Git, HTML/CSS
+      - label: Languages
+        details: JavaScript, TypeScript, SQL
+      - label: Frontend
+        details: React, React Native, HTML, CSS
+      - label: Backend
+        details: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
+      - label: Cloud and DevOps
+        details: Google Cloud Platform, Git, Docker
+      - label: Other
+        details: Testing (Jest, React Testing Library), Agile/Scrum, Jira, SAP
     experience:
-      - company: Everbridge. Inc.
+      - company: Everbridge, Inc.
         position: Software Engineer
-        location: Audobon, PA
+        location: Audubon, PA
         start_date: 2023
         end_date: present
         highlights:
-          - Developed, updated, and maintained key components of an enterprise resilience application, working with 
-            multiple microservices and micro frontends; done primarily through utilizing React, Node, Pulsar, 
-            PostgreSQL, and GraphQL. These components streamlined and enhanced business responses 
-            to catastrophic events, ensuring robust and efficient disaster management. 
-          - Implemented algorithm to cluster business threats, utilizing pub/sub to 
-            generate and store threat data in a database; data was accessed via API and visually represented 
-            on a map using React, providing a clear, actionable view of potential threats.
-          - Created REST API delta endpoint, significantly increasing upload speed for bulk data submitted by customers.
-          - Archived critical data using Node and SQL queries, meeting contractual obligations and enabling the generation 
-            of reports that provided customers with valuable insights into threats to their company and allowed 
-            them to access unique threat data for future analysis.
-      - company: Onepak
+          - Built an end-to-end integration between an enterprise resilience platform and Everbridge Communication products, enabling cross-platform communication and data exchange.
+          - Developed and maintained microservice-based enterprise resilience applications using React, Node.js, Pulsar, PostgreSQL, and GraphQL.
+          - Contributed to the development of a threat-clustering algorithm and supporting pub/sub data pipelines used to store and visualize threat data for enterprise clients.
+          - Built data workflows to archive and process critical threat data using Node.js and SQL, enabling contractual reporting and advanced analytics.
+      - company: Onepak, Inc.
         position: Software Developer
         location: Boston, MA
         start_date: 2022
         end_date: 2023
         highlights:
-          - Implemented a new B2C application, taking it from concept to MVP employing React.
-            Zeplin was utilized as a key tool to work with mockups, ensuring pixel-perfect
-            implementation of the design elements and maintaining a cohesive user interface.
-          - Maintained and optimized logistical software for multiple B2B applications responsible
-            for recycling technological equipment for industry leaders such as Dell and Hewlett Packard.
-          - Collaborated closely with design and marketing teams, translating their vision
-            and requirements into a functional and visually appealing application.
-      - company: Implico
+          - Led development of a new B2C React application from concept to MVP, building core user-facing features and workflows.
+          - Maintained and optimized B2B logistics software for clients including Dell and HP, improving operational efficiency in tech equipment recycling.
+          - Collaborated with cross-functional teams to translate business requirements into customer-facing product features.
+      - company: Implico, Inc.
         position: Software Developer
         location: Blue Bell, PA
         start_date: 2018
         end_date: 2022
         highlights:
-          - Designed, implemented, and maintained a suite of applications for internal use utilizing the
-            PERN stack at Sam’s Club, critical to the everyday operations in the fuels division
-            implementation of the design elements and maintaining a cohesive user interface.
-          - Created iOS/Android mobile application to accompany software suite, nationally utilized
-            by truck drivers to assist with pickup and deliveries.
-          - Produced series of SAP Fiori front end applications using SAP Web IDE to track and maintain
-            master data tables and configuration.
-          - Implemented SSH and IPsec configuration to update fuel measurements of Sam’s Club stations,
-            essential to forecasting and fuel tracking.
-          - Completed front end overhaul of receipt tracking application used by companies such as
-            Walmart and Phillips 66.
-          - Constructed interface utilizing Express.js to interact with SAP and Suncor Energy systems
-            responsible for managing day-to-day fuel logistics
+          - Designed and maintained a suite of PERN stack applications supporting fuel logistics at Sam’s Club, critical to daily operations.
+          - Built and deployed a nationwide iOS/Android mobile app for truck drivers to streamline pickups and deliveries.
+          - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH and IPsec configurations for real-time fuel measurement updates.
+          - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
     education:
       - institution: Flatiron School
-        area: Software Engineering
-        start_date: 2017
-        end_date: 2017
-        highlights:
-          - Rigorous bootcamp program teaching students software engineering.
+        area: Software Engineering Bootcamp
+        start_date: 2018
+        end_date: 2018
       - institution: New Jersey Institute of Technology
         area: Mechanical Engineering
         start_date: 2016
@@ -84,34 +68,34 @@ design:
   font: Source Sans 3
   font_size: 10pt
   page_size: letterpaper
-  color: '#004f90'
+  color: "#006d77"
   disable_external_link_icons: false
-  disable_page_numbering: false
+  disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
-  header_font_size: 30 pt
-  text_alignment: justified
-  seperator_between_connections: ''
+  header_font_size: 24 pt
+  text_alignment: left-aligned
+  seperator_between_connections: ""
   use_icons_for_connections: true
   margins:
     page:
-      top: 2 cm
-      bottom: 2 cm
+      top: 1.4 cm
+      bottom: 1.4 cm
       left: 2 cm
       right: 2 cm
     section_title:
-      top: 0.3 cm
-      bottom: 0.2 cm
+      top: 0.2 cm
+      bottom: 0.15 cm
     entry_area:
       left_and_right: 0.2 cm
-      vertical_between: 0.2 cm
+      vertical_between: 0.13 cm
       date_and_location_width: 4.5 cm
       education_degree_width: 1 cm
     highlights_area:
       top: 0.10 cm
       left: 0.4 cm
-      vertical_between_bullet_points: 0.10 cm
+      vertical_between_bullet_points: 0.08 cm
     header:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
