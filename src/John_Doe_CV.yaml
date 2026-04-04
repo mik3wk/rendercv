@@ -1,104 +1,113 @@
-cv:
-  name: Michael Peterson
-  location: Bordentown, NJ
-  email: michaelgordanpeterson@gmail.com
-  phone: tel:+1-609-954-5900
-  social_networks:
-    - network: LinkedIn
-      username: michaelgpeterson
-  sections:
-    summary:
-      - Full-stack software engineer with 7+ years of experience building scalable web and mobile applications. Expertise in React, Node.js, and PostgreSQL, with a track record of improving system performance, reducing data processing time, and delivering intuitive user experiences. Strong background in GCP and enterprise-scale software, collaborating across teams to ship impactful products.
-    technologies:
-      - label: Languages
-        details: JavaScript, TypeScript, SQL
-      - label: Frontend
-        details: React, React Native, HTML, CSS
-      - label: Backend
-        details: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
-      - label: Cloud and DevOps
-        details: Google Cloud Platform, Git, Docker
-      - label: Other
-        details: Testing (Jest, React Testing Library), Agile/Scrum, Jira, SAP
-    experience:
-      - company: Everbridge, Inc.
-        position: Software Engineer
-        location: Audubon, PA
-        start_date: 2023
-        end_date: present
-        highlights:
-          - Built an end-to-end integration between an enterprise resilience platform and Everbridge Communication products, enabling cross-platform communication and data exchange.
-          - Developed and maintained microservice-based enterprise resilience applications using React, Node.js, Pulsar, PostgreSQL, and GraphQL.
-          - Contributed to the development of a threat-clustering algorithm and supporting pub/sub data pipelines used to store and visualize threat data for enterprise clients.
-          - Built data workflows to archive and process critical threat data using Node.js and SQL, enabling contractual reporting and advanced analytics.
-      - company: Onepak, Inc.
-        position: Software Developer
-        location: Boston, MA
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - Led development of a new B2C React application from concept to MVP, building core user-facing features and workflows.
-          - Maintained and optimized B2B logistics software for clients including Dell and HP, improving operational efficiency in tech equipment recycling.
-          - Collaborated with cross-functional teams to translate business requirements into customer-facing product features.
-      - company: Implico, Inc.
-        position: Software Developer
-        location: Blue Bell, PA
-        start_date: 2018
-        end_date: 2022
-        highlights:
-          - Designed and maintained a suite of PERN stack applications supporting fuel logistics at Sam’s Club, critical to daily operations.
-          - Built and deployed a nationwide iOS/Android mobile app for truck drivers to streamline pickups and deliveries.
-          - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH and IPsec configurations for real-time fuel measurement updates.
-          - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
-    education:
-      - institution: Flatiron School
-        area: Software Engineering Bootcamp
-        start_date: 2018
-        end_date: 2018
-      - institution: New Jersey Institute of Technology
-        area: Mechanical Engineering
-        start_date: 2016
-        end_date: 2018
-      - institution: Temple University
-        area: History
-        start_date: 2011
-        end_date: 2015
-design:
-  theme: classic
-  font: Source Sans 3
-  font_size: 10pt
-  page_size: letterpaper
-  color: "#006d77"
-  disable_external_link_icons: false
-  disable_page_numbering: true
-  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  disable_last_updated_date: false
-  last_updated_date_style: Last updated in TODAY
-  header_font_size: 24 pt
-  text_alignment: left-aligned
-  seperator_between_connections: ""
-  use_icons_for_connections: true
-  margins:
-    page:
-      top: 1.4 cm
-      bottom: 1.4 cm
-      left: 2 cm
-      right: 2 cm
-    section_title:
-      top: 0.2 cm
-      bottom: 0.15 cm
-    entry_area:
-      left_and_right: 0.2 cm
-      vertical_between: 0.13 cm
-      date_and_location_width: 4.5 cm
-      education_degree_width: 1 cm
-    highlights_area:
-      top: 0.10 cm
-      left: 0.4 cm
-      vertical_between_bullet_points: 0.08 cm
-    header:
-      vertical_between_name_and_connections: 0.3 cm
-      bottom: 0.3 cm
-      horizontal_between_connections: 0.5 cm
-  show_timespan_in:
-    - Experience
+  cv:
+    name: Michael Peterson
+    location: Bordentown, NJ
+    email: michaelgordanpeterson@gmail.com
+    phone: tel:+1-609-954-5900
+    social_networks:
+      - network: LinkedIn
+        username: michaelgpeterson
+    sections:
+      summary:
+        - Software engineer with 7+ years of experience building scalable web and mobile applications. Expertise in React, Node.js, and PostgreSQL, with a track record of improving system performance, reducing data processing time, and delivering intuitive user experiences. Strong background in GCP and collaborating across teams to ship impactful products.
+      experience:
+        - company: Everbridge, Inc.
+          position: Software Engineer
+          location: Audubon, PA
+          start_date: 2023
+          end_date: present
+          highlights:
+            - Built an end-to-end integration between an enterprise resilience platform and Everbridge Communication products, enabling cross-platform communication and data exchange.
+            - Developed and maintained microservice-based enterprise resilience applications using React, Node.js, Pulsar, PostgreSQL, and GraphQL.
+            - Contributed to the development of a threat-clustering algorithm and supporting pub/sub data pipelines used to store and visualize threat data for enterprise clients.
+            - Built data workflows to archive and process critical threat data using Node.js and SQL, enabling contractual reporting and advanced analytics.
+        - company: Onepak, Inc.
+          position: Software Developer
+          location: Boston, MA
+          start_date: 2022
+          end_date: 2023
+          highlights:
+            - Led development of a new B2C React application from concept to MVP, building core user-facing features and workflows.
+            - Maintained and optimized B2B logistics software for clients including Dell and HP, improving operational efficiency in tech equipment recycling.
+            - Collaborated with cross-functional teams to translate business requirements into customer-facing product features.
+        - company: Implico, Inc.
+          position: Software Developer
+          location: Blue Bell, PA
+          start_date: 2018
+          end_date: 2022
+          highlights:
+            - Designed and maintained a suite of PERN stack applications supporting fuel logistics at Sam’s Club, critical to daily operations.
+            - Built and deployed a nationwide iOS/Android mobile app for truck drivers to streamline pickups and deliveries.
+            - Developed SAP Fiori applications to track and maintain master data tables, and implemented SSH and IPsec configurations for real-time fuel measurement updates.
+            - Overhauled a receipt tracking app used by Walmart and Phillips 66, improving UI and system performance.
+      projects:
+        - name: PR Wiz
+          url: https://prwiz.app/
+          location: Personal Project
+          highlights:
+            - Built and launched an iPhone app for structured lifting, owning the product from concept through App Store release.
+            - Integrated the OpenAI API to generate structured workout templates, giving lifters a faster starting point while preserving control over blocks, progression, and exercise selection.
+            - Built to help lifters manage progressive overload across multiple workout sessions, with support for repeat exposures, block-based templates, and training context that carries forward over time.
+            - Implemented the app's core training architecture around reusable program templates, workout/session relationships, PR tracking, and historical context surfaced directly in the logging flow.
+      technologies:
+        - label: Languages
+          details: JavaScript, TypeScript, SQL
+        - label: Frontend
+          details: React, React Native, HTML, CSS
+        - label: Backend
+          details: Node.js, Express.js, GraphQL, REST APIs, PostgreSQL, Microservices, Pub/Sub (Pulsar)
+        - label: Cloud and DevOps
+          details: Google Cloud Platform, Git, Docker
+        - label: Other
+          details: Testing (Jest, React Testing Library), Agile/Scrum, Jira, SAP
+      education:
+        - institution: Flatiron School
+          area: Software Engineering Bootcamp
+          start_date: 2018
+          end_date: 2018
+        - institution: New Jersey Institute of Technology
+          area: Mechanical Engineering
+          start_date: 2016
+          end_date: 2018
+        - institution: Temple University
+          area: History
+          start_date: 2011
+          end_date: 2015
+  design:
+    theme: classic
+    font: Source Sans 3
+    font_size: 10pt
+    page_size: letterpaper
+    color: "#006d77"
+    disable_external_link_icons: false
+    disable_page_numbering: true
+    page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+    disable_last_updated_date: false
+    last_updated_date_style: Last updated in TODAY
+    header_font_size: 24 pt
+    text_alignment: left-aligned
+    seperator_between_connections: ""
+    use_icons_for_connections: true
+    margins:
+      page:
+        top: 1.4 cm
+        bottom: 1.4 cm
+        left: 2 cm
+        right: 2 cm
+      section_title:
+        top: 0.2 cm
+        bottom: 0.15 cm
+      entry_area:
+        left_and_right: 0.2 cm
+        vertical_between: 0.13 cm
+        date_and_location_width: 4.5 cm
+        education_degree_width: 1 cm
+      highlights_area:
+        top: 0.10 cm
+        left: 0.4 cm
+        vertical_between_bullet_points: 0.08 cm
+      header:
+        vertical_between_name_and_connections: 0.3 cm
+        bottom: 0.3 cm
+        horizontal_between_connections: 0.5 cm
+    show_timespan_in:
+      - Experience
